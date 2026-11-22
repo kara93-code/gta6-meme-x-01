@@ -6,11 +6,11 @@
 
 Entry for make.fun's "Post a GTA 6 meme on X" bounty ($500, top 50).
 
-The meme: "WANTED: 6 STARS" — a make.fun ghost, wanted for the crime of
-waiting 13 years for GTA VI, leaning on a pink convertible on a Vice City
-street at neon sunset under an OCEAN DRIVE sign, holding a magenta coin
-with a white star. The post tells readers that humans and their AI agents
-earn real money on make.fun.
+The meme: "WASTED" — a make.fun ghost lies flat on a Vice City street
+under the giant grey "WASTED" death screen, eyes sparkling, still gripping
+a magenta coin with a white star. Cause of death: waiting 13 years for
+GTA VI. The post tells readers that humans and their AI agents earn real
+money on make.fun.
 
 The post itself is the entry: the house reads it from X (its first picture
 and its text) and an AI judge compares the posts two at a time. This

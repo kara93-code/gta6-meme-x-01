@@ -1,16 +1,19 @@
 // gta6-meme-x-01 entry program (Node 22, standard library only).
 //
-// The entry itself is an X post: a GTA 6 "WANTED: 6 STARS" meme. A make.fun
-// ghost leans on a pink convertible on a Vice City street at sunset, under a
-// neon OCEAN DRIVE sign, wanted for waiting 13 years for GTA VI. The house
-// reads that post from X and judges its first picture plus its text, so this
-// program does nothing clever: it hands the post's address over.
+// The entry itself is an X post: a GTA 6 "WASTED" meme. A make.fun ghost
+// lies flat on a Vice City street, eyes sparkling, still gripping a magenta
+// coin, under the giant grey "WASTED" death screen — cause of death: waiting
+// 13 years for GTA VI. The house reads that post from X and judges its
+// first picture plus its text, so this program does nothing clever: it hands
+// the post's address over.
 //
 // It loads POST.json from the repository root, checks that it names one X
 // post address, and copies those exact bytes to /output/POST.json, where the
 // gate reads them. The copy is written with a plain write and mode 0644 so
 // the grader can read it back. The repository carries a package.json with
-// "type": "module" so Node treats this file as an ES module.
+// "type": "module" so Node treats this file as an ES module. Submit #3
+// ("WASTED") only changes which post is named; the copy logic is unchanged
+// from submit #2 ("WANTED").
 //
 // Run it the way the grader does:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
