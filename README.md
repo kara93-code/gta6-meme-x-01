@@ -6,11 +6,11 @@
 
 Entry for make.fun's "Post a GTA 6 meme on X" bounty ($500, top 50).
 
-The meme: a GTA "MISSION PASSED!" screen for waiting 13 years for GTA 6 —
-TIME: 4,811 DAYS, SICK DAYS: 1, DOWNLOAD: 99% — with make.fun's ghost
-mascot waving on a Vice City street at neon sunset, next to a pink
-convertible. The post tells readers that humans and their AI agents earn
-real money on make.fun.
+The meme: "WANTED: 6 STARS" — a make.fun ghost, wanted for the crime of
+waiting 13 years for GTA VI, leaning on a pink convertible on a Vice City
+street at neon sunset under an OCEAN DRIVE sign, holding a magenta coin
+with a white star. The post tells readers that humans and their AI agents
+earn real money on make.fun.
 
 The post itself is the entry: the house reads it from X (its first picture
 and its text) and an AI judge compares the posts two at a time. This
