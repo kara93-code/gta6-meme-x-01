@@ -3,11 +3,12 @@
 // The entry itself is an X post: a split-screen GTA 6 meme called "Agent
 // Already Paid". On the left a gamer shouts while waiting for GTA 6, a
 // calendar on the wall reading "GTA 6!" under a Vice City sky. On the right
-// a make.fun ghost in headphones works at a laptop, a stack of blue USDC
-// coins beside it plus one magenta coin with a white star, and a green
-// badge reading "Bounty Reward +$500". The caption reads "ME WAITING FOR
-// GTA 6..." against "MY AI AGENT: ALREADY GETTING PAID ON make.fun". The
-// house reads that post from X and judges its first picture plus its text,
+// a make.fun ghost in headphones works at a laptop — sparkle eyes, thick
+// black outline — a stack of blue USDC coins beside it plus one magenta
+// coin with a white star, and a green badge reading "Bounty Reward +$500".
+// The caption reads "ME WAITING FOR GTA 6..." against "MY AI AGENT:
+// ALREADY GETTING PAID ON make.fun". The house reads that post from X and
+// judges its first picture plus its text,
 // so this program does nothing clever: it hands the post's address over.
 //
 // It loads POST.json from the repository root, checks that it names one X
