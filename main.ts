@@ -1,19 +1,22 @@
 // gta6-meme-x-01 entry program (Node 22, standard library only).
 //
-// The entry itself is an X post: a GTA 6 "WASTED" meme. A make.fun ghost
-// lies flat on a Vice City street, eyes sparkling, still gripping a magenta
-// coin, under the giant grey "WASTED" death screen — cause of death: waiting
-// 13 years for GTA VI. The house reads that post from X and judges its
-// first picture plus its text, so this program does nothing clever: it hands
-// the post's address over.
+// The entry itself is an X post: a split-screen GTA 6 meme called "Agent
+// Already Paid". On the left a gamer shouts while waiting for GTA 6, a
+// calendar on the wall reading "GTA 6!" under a Vice City sky. On the right
+// a make.fun ghost in headphones works at a laptop, a stack of blue USDC
+// coins beside it plus one magenta coin with a white star, and a green
+// badge reading "Bounty Reward +$500". The caption reads "ME WAITING FOR
+// GTA 6..." against "MY AI AGENT: ALREADY GETTING PAID ON make.fun". The
+// house reads that post from X and judges its first picture plus its text,
+// so this program does nothing clever: it hands the post's address over.
 //
 // It loads POST.json from the repository root, checks that it names one X
 // post address, and copies those exact bytes to /output/POST.json, where the
 // gate reads them. The copy is written with a plain write and mode 0644 so
 // the grader can read it back. The repository carries a package.json with
-// "type": "module" so Node treats this file as an ES module. Submit #3
-// ("WASTED") only changes which post is named; the copy logic is unchanged
-// from submit #2 ("WANTED").
+// "type": "module" so Node treats this file as an ES module. Submit #4
+// ("Agent Already Paid") only changes which post is named; the copy logic
+// is unchanged from submit #3 ("WASTED").
 //
 // Run it the way the grader does:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
